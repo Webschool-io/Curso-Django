@@ -32,7 +32,7 @@
 - Criando nossas Views
     - Fazendo querysets
     - Filtrando resultados 
-    - Jogando as querys para o Template
+    - Entregando as querys para o Template
 
 - Exibindo os dados das Views nos Templates
     - Variáveis de template e template tags
@@ -43,9 +43,10 @@
     - O básico de expressões regulares
 
 - O admin do Django
+    - Crud completo direto do admin
     - Decidindo quais colunas exibir
     - Registrando filtros
-    - Possibilitando buscar
+    - Possibilitando buscas
 
 
 
